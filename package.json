@@ -1,0 +1,24 @@
+{
+  "name": "@openedx/frontend-dev-utils",
+  "version": "1.0.0-prealpha",
+  "description": "Development utilities for use with @openedx/frontend-base",
+  "homepage": "https://github.com/openedx/frontend-dev-utils#readme",
+  "bugs": {
+    "url": "https://github.com/openedx/frontend-dev-utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openedx/frontend-dev-utils.git"
+  },
+  "license": "AGPL-3.0",
+  "author": "Open edX Community",
+  "bin": {
+    "devutils-dev-with-autoinstall": "./tools/autoinstall/dev-with-autoinstall.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chokidar": "^5.0.0"
+  }
+}
