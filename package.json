@@ -16,6 +16,9 @@
     "devutils-dev-with-autoinstall": "tools/autoinstall/dev-with-autoinstall.mjs",
     "devutils-serve-runtime-config": "tools/serveconfig/serve-runtime-config.mjs"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
