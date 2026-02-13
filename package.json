@@ -13,8 +13,8 @@
   "license": "AGPL-3.0",
   "author": "Open edX Community",
   "bin": {
-    "devutils-dev-with-autoinstall": "./tools/autoinstall/dev-with-autoinstall.mjs",
-    "devutils-serve-runtime-config": "./tools/serveconfig/serve-runtime-config.mjs"
+    "devutils-dev-with-autoinstall": "tools/autoinstall/dev-with-autoinstall.mjs",
+    "devutils-serve-runtime-config": "tools/serveconfig/serve-runtime-config.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
