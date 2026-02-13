@@ -1,0 +1,7 @@
+.github/
+.gitignore
+.nvmrc
+.releaserc
+catalog-info.yaml
+package-lock.json
+*.tgz
